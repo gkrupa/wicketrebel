@@ -21,11 +21,11 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.gkrupa.samples.rebel.wicket</groupId>
-	<artifactId>WicketRebel</artifactId>
+	<artifactId>wicketrebel</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 		<!-- TODO project name  -->
-	<name>quickstart</name>
+	<name>wicketrebel</name>
 	<description></description>
 	<!--
 		<organization>
