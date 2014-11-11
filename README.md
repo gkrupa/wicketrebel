@@ -1,4 +1,4 @@
 wicketrebel
 ===========
 
-wicket jrebel testing
+example repro case for jrebel
